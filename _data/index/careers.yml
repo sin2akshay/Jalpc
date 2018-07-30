@@ -12,7 +12,7 @@
   job:
     detail: Programmer Analyst
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-briefcase
 
 - name:
     detail: KIIT University, Bhubaneswar
