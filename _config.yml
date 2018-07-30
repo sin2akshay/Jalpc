@@ -4,8 +4,8 @@
 title: Akshay Kumar
 description: Akshay's Personal Website
 keywords: Akshay,Kumar,blog,sin2akshay,portfolio,project
-baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://sin2akshay.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
+baseurl:  sin2akshay.github.io# if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: http://sin2akshay.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /sin2akshay/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
